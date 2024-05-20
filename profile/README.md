@@ -19,4 +19,4 @@ Some of the desired features of this tool:
 For the interested developer and engineer:
 
 - Completely cloud indepedent. All Kubernetes. Cloud-Native applications first
-- Made to run on bare metal (our test environment is on bare metal)
+- Made to run on bare metal for maximum cost savings to the end user.
