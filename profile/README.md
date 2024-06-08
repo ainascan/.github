@@ -4,7 +4,7 @@ Welcome!
 
 This project comes out of respect for my local community and to the world of coffee growers big and small. With all of the farmers hard work and dedication we get to enjoy one of the most refreshing beverages in the world. To programmers like myself, we need it to survive.
 
-AinaScan is a tool suite and application purpose built for researchers and farmers to understand yields, pests, deficiencies, and diseases of their crops. With out data collection tools, and suite of layered machine learning and deep learning models, anaylitics are presented to our users in a consumable fashion.
+AinaScan is a tool suite and application purpose built for researchers and farmers to understand yields, pests, deficiencies, and diseases of their crops. With our data collection tools, and suite of layered machine learning and deep learning models, anaylitics are presented to our users in a consumable fashion.
 
 Some of the desired features of this tool:
 
