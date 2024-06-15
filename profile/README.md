@@ -24,4 +24,4 @@ For the interested developer and engineer:
 
 ## Please Note
 
-This project is in closed sourced development at this time while our dedicated internal team creates the groundwork for an open-source community to continue to support it. If you are interested in contributing to our development efforts in the early stages, please join our Slack community and directly message. Jack Mead or Devin Dennis.
+This project is in closed sourced development at this time while our dedicated internal team creates the groundwork for an open-source community to continue to support it. If you are interested in contributing to our development efforts in the early stages, please join our Slack community and directly message Jack Mead and Devin Dennis.
