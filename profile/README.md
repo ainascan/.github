@@ -1,4 +1,4 @@
-# AinaScan
+# Ainascan
 
 Aloha and Welcome!
 
@@ -21,3 +21,7 @@ For the interested developer and engineer:
 
 - Completely cloud indepedent. All Kubernetes. Cloud-Native applications first.
 - Made to run on bare metal for maximum cost savings to the end user.
+
+## Please Note
+
+This project is in closed sourced development at this time while our dedicated internal team creates the groundwork for an open-source community to continue to support it. If you are interested in contributing to our development efforts in the early stages, please join our Slack community and directly message. Jack Mead or Devin Dennis.
